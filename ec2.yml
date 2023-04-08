@@ -1,5 +1,5 @@
 # add AMI
 # create keypair
-# add security group
+# add SG
 # add role
 # add ebs volume to 100 GB
